@@ -730,8 +730,8 @@
     {
       "id": "G3vb-HQP77Z9GgXat-iYh",
       "type": "rectangle",
-      "x": -81.19277738320744,
-      "y": 1397.963489879261,
+      "x": 24.946742818812993,
+      "y": 1404.9671199297668,
       "width": 136.74999999999997,
       "height": 68.93359375,
       "angle": 0,
@@ -746,15 +746,15 @@
         "Nl-UCcUqah8z0ZCaJOWZc"
       ],
       "seed": 1459221757,
-      "version": 609,
-      "versionNonce": 1983128765,
+      "version": 643,
+      "versionNonce": 4100531,
       "isDeleted": false
     },
     {
       "id": "45hPpYJ_U_1CqzhTEmuTP",
       "type": "text",
-      "x": -73.3456340751265,
-      "y": 1418.158032966382,
+      "x": 32.79388612689394,
+      "y": 1425.1616630168878,
       "width": 120,
       "height": 28,
       "angle": 0,
@@ -769,8 +769,8 @@
         "Nl-UCcUqah8z0ZCaJOWZc"
       ],
       "seed": 629777747,
-      "version": 572,
-      "versionNonce": 1377522067,
+      "version": 606,
+      "versionNonce": 368236285,
       "isDeleted": false,
       "text": "期刊文章发布",
       "fontSize": 20,
@@ -782,8 +782,8 @@
     {
       "id": "-vmbok3jvGJNwizusRZAd",
       "type": "ellipse",
-      "x": 168.1360578440652,
-      "y": 1144.294455788352,
+      "x": 274.2755780460856,
+      "y": 1151.2980858388578,
       "width": 100.90234375,
       "height": 99.7265625,
       "angle": 0,
@@ -798,15 +798,15 @@
         "RXsBMUx0dCm-X4T68BYDh"
       ],
       "seed": 223104349,
-      "version": 584,
-      "versionNonce": 1831503133,
+      "version": 618,
+      "versionNonce": 411558739,
       "isDeleted": false
     },
     {
       "id": "Rpu6I0vYIVlW_DH_CCiuh",
       "type": "text",
-      "x": 178.59018899936808,
-      "y": 1180.2445425939077,
+      "x": 284.7297092013885,
+      "y": 1187.2481726444134,
       "width": 80,
       "height": 28,
       "angle": 0,
@@ -821,8 +821,8 @@
         "RXsBMUx0dCm-X4T68BYDh"
       ],
       "seed": 1987019507,
-      "version": 422,
-      "versionNonce": 880912179,
+      "version": 456,
+      "versionNonce": 2128146269,
       "isDeleted": false,
       "text": "期刊模型",
       "fontSize": 20,
@@ -834,8 +834,8 @@
     {
       "id": "KH6nxrfyKEOmwedDIZR4V",
       "type": "ellipse",
-      "x": 308.22513218118655,
-      "y": 1141.9654232757257,
+      "x": 414.364652383207,
+      "y": 1148.9690533262315,
       "width": 100.90234375,
       "height": 99.7265625,
       "angle": 0,
@@ -850,15 +850,15 @@
         "tq5M7NPm4NR21OtI2BbvR"
       ],
       "seed": 208968125,
-      "version": 624,
-      "versionNonce": 188078461,
+      "version": 658,
+      "versionNonce": 720765171,
       "isDeleted": false
     },
     {
       "id": "SJWxyrlEGqWzYN_eSua7J",
       "type": "text",
-      "x": 318.5855527935602,
-      "y": 1177.8287045257257,
+      "x": 424.72507299558066,
+      "y": 1184.8323345762315,
       "width": 80,
       "height": 28,
       "angle": 0,
@@ -873,8 +873,8 @@
         "tq5M7NPm4NR21OtI2BbvR"
       ],
       "seed": 369667219,
-      "version": 465,
-      "versionNonce": 1322010835,
+      "version": 499,
+      "versionNonce": 672988093,
       "isDeleted": false,
       "text": "期刊分类",
       "fontSize": 20,
@@ -886,8 +886,8 @@
     {
       "id": "xHG1GyPdfjh3v2J1s1tsW",
       "type": "arrow",
-      "x": 63.859892546227115,
-      "y": 1271.4031013677877,
+      "x": 169.99941274824755,
+      "y": 1278.4067314182935,
       "width": 50.65321046200137,
       "height": 97.52162380617051,
       "angle": 0,
@@ -900,8 +900,8 @@
       "opacity": 100,
       "groupIds": [],
       "seed": 764697117,
-      "version": 626,
-      "versionNonce": 160932317,
+      "version": 660,
+      "versionNonce": 823093907,
       "isDeleted": false,
       "points": [
         [
@@ -918,8 +918,8 @@
     {
       "id": "TLXp6wk471srkKyiXWKKw",
       "type": "arrow",
-      "x": 331.9471463315826,
-      "y": 1250.8072274935903,
+      "x": 438.086666533603,
+      "y": 1257.810857544096,
       "width": 47.57552977539598,
       "height": 96.64647703213615,
       "angle": 0,
@@ -932,8 +932,8 @@
       "opacity": 100,
       "groupIds": [],
       "seed": 1745592883,
-      "version": 349,
-      "versionNonce": 915519091,
+      "version": 383,
+      "versionNonce": 971013149,
       "isDeleted": false,
       "points": [
         [
@@ -950,8 +950,8 @@
     {
       "id": "CZ-8n3ivyQQynQ05XX8z5",
       "type": "arrow",
-      "x": 148.543570470328,
-      "y": 1051.1732042100693,
+      "x": 254.68309067234844,
+      "y": 1058.1768342605742,
       "width": 26.66796875,
       "height": 76.03125,
       "angle": 0,
@@ -964,8 +964,8 @@
       "opacity": 100,
       "groupIds": [],
       "seed": 698158717,
-      "version": 333,
-      "versionNonce": 2103533117,
+      "version": 367,
+      "versionNonce": 797614131,
       "isDeleted": false,
       "points": [
         [
@@ -982,8 +982,8 @@
     {
       "id": "AbgQ-rvrMopTgwSgCCSPh",
       "type": "rectangle",
-      "x": 727.4479068023986,
-      "y": 1376.8400681620897,
+      "x": 833.5874270044193,
+      "y": 1383.8436982125954,
       "width": 136.74999999999997,
       "height": 68.93359375,
       "angle": 0,
@@ -998,15 +998,15 @@
         "CPscNtGGL5VAWZmW_vCPE"
       ],
       "seed": 358540243,
-      "version": 683,
-      "versionNonce": 177762323,
+      "version": 717,
+      "versionNonce": 1544876157,
       "isDeleted": false
     },
     {
       "id": "qIRMIvSim_rC_940Y2_iV",
       "type": "text",
-      "x": 755.6422723327012,
-      "y": 1397.302919330019,
+      "x": 861.7817925347218,
+      "y": 1404.3065493805248,
       "width": 80,
       "height": 28,
       "angle": 0,
@@ -1021,8 +1021,8 @@
         "CPscNtGGL5VAWZmW_vCPE"
       ],
       "seed": 525350621,
-      "version": 644,
-      "versionNonce": 1567919773,
+      "version": 678,
+      "versionNonce": 1347297747,
       "isDeleted": false,
       "text": "期刊浏览",
       "fontSize": 20,
@@ -1034,8 +1034,8 @@
     {
       "id": "xmP_DJM0ueKMWq9ezFwiO",
       "type": "diamond",
-      "x": 646.1125217013885,
-      "y": 1169.2924829348176,
+      "x": 752.2520419034091,
+      "y": 1176.2961129853234,
       "width": 141.7436079545455,
       "height": 122.00372869318176,
       "angle": 0,
@@ -1050,15 +1050,15 @@
         "oZwpNRUb4UDRxCkDw8GR8"
       ],
       "seed": 1712910707,
-      "version": 418,
-      "versionNonce": 1289156019,
+      "version": 452,
+      "versionNonce": 1014749405,
       "isDeleted": false
     },
     {
       "id": "upDmubVJouFbz4BRmoXig",
       "type": "text",
-      "x": 676.8935744160349,
-      "y": 1216.2943472814077,
+      "x": 783.0330946180555,
+      "y": 1223.2979773319134,
       "width": 80,
       "height": 28,
       "angle": 0,
@@ -1073,8 +1073,8 @@
         "oZwpNRUb4UDRxCkDw8GR8"
       ],
       "seed": 1497322301,
-      "version": 370,
-      "versionNonce": 1216525053,
+      "version": 404,
+      "versionNonce": 1014001523,
       "isDeleted": false,
       "text": "期刊列表",
       "fontSize": 20,
@@ -1086,8 +1086,8 @@
     {
       "id": "hL7yjIre1edlkkAi1mRzS",
       "type": "diamond",
-      "x": 834.9062204071959,
-      "y": 1163.5285447245897,
+      "x": 941.0457406092165,
+      "y": 1170.5321747750954,
       "width": 141.7436079545455,
       "height": 122.00372869318176,
       "angle": 0,
@@ -1102,15 +1102,15 @@
         "lYt_ZnYezuvC-jXD3d-5F"
       ],
       "seed": 1535134483,
-      "version": 519,
-      "versionNonce": 2087962451,
+      "version": 553,
+      "versionNonce": 1420211517,
       "isDeleted": false
     },
     {
       "id": "5LXkHQ_ItmVFjxmo0O6hp",
       "type": "text",
-      "x": 865.6759292140139,
-      "y": 1210.4396578085543,
+      "x": 971.8154494160345,
+      "y": 1217.44328785906,
       "width": 80,
       "height": 28,
       "angle": 0,
@@ -1125,8 +1125,8 @@
         "lYt_ZnYezuvC-jXD3d-5F"
       ],
       "seed": 1405871005,
-      "version": 482,
-      "versionNonce": 185420637,
+      "version": 516,
+      "versionNonce": 909642003,
       "isDeleted": false,
       "text": "期刊详情",
       "fontSize": 20,
@@ -1138,8 +1138,8 @@
     {
       "id": "lgHH4pe8l6nC-btgS4Ctl",
       "type": "arrow",
-      "x": 355.16594657512593,
-      "y": 1417.2071767479474,
+      "x": 461.30546677714636,
+      "y": 1424.2108067984532,
       "width": 336.798361746488,
       "height": 2.408737587646783,
       "angle": 0,
@@ -1152,8 +1152,8 @@
       "opacity": 100,
       "groupIds": [],
       "seed": 168521907,
-      "version": 234,
-      "versionNonce": 1875207411,
+      "version": 268,
+      "versionNonce": 1878459805,
       "isDeleted": false,
       "points": [
         [
@@ -1170,8 +1170,8 @@
     {
       "id": "4H18Koe_x1uai6VLiLroP",
       "type": "ellipse",
-      "x": 55.256914851641056,
-      "y": 947.0465864701705,
+      "x": 161.3964350536615,
+      "y": 954.0502165206753,
       "width": 106.21448863636368,
       "height": 100.69247159090912,
       "angle": 0,
@@ -1186,15 +1186,15 @@
         "AoLGiLnGtc4hhJYd1tXPG"
       ],
       "seed": 52914173,
-      "version": 337,
-      "versionNonce": 1701173181,
+      "version": 371,
+      "versionNonce": 1931177651,
       "isDeleted": false
     },
     {
       "id": "rRU38B5auJB6ilCszJzsC",
       "type": "text",
-      "x": 58.26650291982281,
-      "y": 983.392822265625,
+      "x": 164.40602312184325,
+      "y": 990.3964523161299,
       "width": 100,
       "height": 28,
       "angle": 0,
@@ -1209,8 +1209,8 @@
         "AoLGiLnGtc4hhJYd1tXPG"
       ],
       "seed": 861987411,
-      "version": 254,
-      "versionNonce": 1850887827,
+      "version": 288,
+      "versionNonce": 1906199037,
       "isDeleted": false,
       "text": "自定义字段",
       "fontSize": 20,
@@ -1222,8 +1222,8 @@
     {
       "id": "M2ydr8ZSPHuhD19heu9Xf",
       "type": "ellipse",
-      "x": -207.3205196496212,
-      "y": 950.3803932883525,
+      "x": -101.18099944760098,
+      "y": 957.3840233388573,
       "width": 105.37109375000006,
       "height": 99.89292421535431,
       "angle": 0,
@@ -1238,15 +1238,15 @@
         "xOSTfi4sbY6XM9rIKVxAX"
       ],
       "seed": 1498636381,
-      "version": 493,
-      "versionNonce": 296605725,
+      "version": 527,
+      "versionNonce": 901849171,
       "isDeleted": false
     },
     {
       "id": "rUh0HtVq_4g7Zqk50G1bo",
       "type": "text",
-      "x": -204.33482917977398,
-      "y": 986.4380222298641,
+      "x": -98.19530897775377,
+      "y": 993.441652280369,
       "width": 99.20595118689391,
       "height": 27.7776663323303,
       "angle": 0,
@@ -1261,8 +1261,8 @@
         "xOSTfi4sbY6XM9rIKVxAX"
       ],
       "seed": 542580723,
-      "version": 426,
-      "versionNonce": 181470259,
+      "version": 460,
+      "versionNonce": 1520304733,
       "isDeleted": false,
       "text": "数据库设计",
       "fontSize": 19.308248081997423,
@@ -1274,8 +1274,8 @@
     {
       "id": "gXF49RqMtWHhijsiymVkl",
       "type": "arrow",
-      "x": -74.6037030460862,
-      "y": 1001.330322265625,
+      "x": 31.53581715593424,
+      "y": 1008.3339523161299,
       "width": 113.90713778409093,
       "height": 0.31516335227274794,
       "angle": 0,
@@ -1288,8 +1288,8 @@
       "opacity": 100,
       "groupIds": [],
       "seed": 203508925,
-      "version": 206,
-      "versionNonce": 165071997,
+      "version": 240,
+      "versionNonce": 671063539,
       "isDeleted": false,
       "points": [
         [
@@ -1306,8 +1306,8 @@
     {
       "id": "dYNlYFV-bD13F7veOpj96",
       "type": "ellipse",
-      "x": -339.0448330965907,
-      "y": 1109.3859764638573,
+      "x": -232.9053128945705,
+      "y": 1116.389606514363,
       "width": 110.67560369318176,
       "height": 98.28657670454548,
       "angle": 0,
@@ -1322,15 +1322,15 @@
         "Gh3_v4D6C_M7Tlg25EADQ"
       ],
       "seed": 989112723,
-      "version": 368,
-      "versionNonce": 1026033107,
+      "version": 402,
+      "versionNonce": 264744637,
       "isDeleted": false
     },
     {
       "id": "YuNSt5GOpvh6aGmSsMtCH",
       "type": "text",
-      "x": -321.4653764204542,
-      "y": 1145.503854462595,
+      "x": -215.325856218434,
+      "y": 1152.5074845131007,
       "width": 80,
       "height": 28,
       "angle": 0,
@@ -1345,8 +1345,8 @@
         "Gh3_v4D6C_M7Tlg25EADQ"
       ],
       "seed": 456305949,
-      "version": 359,
-      "versionNonce": 228734173,
+      "version": 393,
+      "versionNonce": 1960667027,
       "isDeleted": false,
       "text": "期刊主表",
       "fontSize": 20,
@@ -1358,8 +1358,8 @@
     {
       "id": "Htgmld5WXeoaaPH0z6Ror",
       "type": "line",
-      "x": -205.70878499041982,
-      "y": 1046.4502355545715,
+      "x": -99.56926478839961,
+      "y": 1053.4538656050763,
       "width": 33.363174842282234,
       "height": 50.68580009489267,
       "angle": 0,
@@ -1372,8 +1372,8 @@
       "opacity": 100,
       "groupIds": [],
       "seed": 1752170291,
-      "version": 360,
-      "versionNonce": 1013830515,
+      "version": 394,
+      "versionNonce": 1606209309,
       "isDeleted": false,
       "points": [
         [
@@ -1390,8 +1390,8 @@
     {
       "id": "f-HdmdPInTSzboQj8oXBA",
       "type": "arrow",
-      "x": 741.4275272253783,
-      "y": 1293.9831789575446,
+      "x": 847.567047427399,
+      "y": 1300.9868090080504,
       "width": 46.75071022727252,
       "height": 62.04279119318181,
       "angle": 0,
@@ -1404,8 +1404,8 @@
       "opacity": 100,
       "groupIds": [],
       "seed": 368640381,
-      "version": 222,
-      "versionNonce": 1755418941,
+      "version": 256,
+      "versionNonce": 579927347,
       "isDeleted": false,
       "points": [
         [
@@ -1422,8 +1422,8 @@
     {
       "id": "FjwrOmfgc_a51jED-kGdi",
       "type": "arrow",
-      "x": 864.9138553503781,
-      "y": 1278.1184772529987,
+      "x": 971.0533755523987,
+      "y": 1285.1221073035044,
       "width": 28.830788352272748,
       "height": 80.09144176136363,
       "angle": 0,
@@ -1436,8 +1436,8 @@
       "opacity": 100,
       "groupIds": [],
       "seed": 590323923,
-      "version": 261,
-      "versionNonce": 417918227,
+      "version": 295,
+      "versionNonce": 1223615357,
       "isDeleted": false,
       "points": [
         [
@@ -1454,8 +1454,8 @@
     {
       "id": "PjqJ2YJ8syZaJ0svhh4-C",
       "type": "ellipse",
-      "x": -170.91624250315687,
-      "y": 1131.358605587121,
+      "x": -64.77672230113643,
+      "y": 1138.3622356376268,
       "width": 110.67560369318176,
       "height": 98.28657670454548,
       "angle": 0,
@@ -1470,15 +1470,15 @@
         "nv5h0lAQTLP070ZdPWA5d"
       ],
       "seed": 167456445,
-      "version": 427,
-      "versionNonce": 2016829853,
+      "version": 461,
+      "versionNonce": 746643155,
       "isDeleted": false
     },
     {
       "id": "eNKxdKXe7IQCNoEk7R9VC",
       "type": "text",
-      "x": -163.34073153409116,
-      "y": 1167.3817866161617,
+      "x": -57.20121133207073,
+      "y": 1174.3854166666674,
       "width": 100,
       "height": 28,
       "angle": 0,
@@ -1493,8 +1493,8 @@
         "nv5h0lAQTLP070ZdPWA5d"
       ],
       "seed": 161605523,
-      "version": 434,
-      "versionNonce": 370135731,
+      "version": 468,
+      "versionNonce": 2141154269,
       "isDeleted": false,
       "text": "期刊文章表",
       "fontSize": 20,
@@ -1506,8 +1506,8 @@
     {
       "id": "3ca1xmQdsUMd57c5wsbIk",
       "type": "line",
-      "x": -122.55902109522373,
-      "y": 1057.2684917508886,
+      "x": -16.419500893203292,
+      "y": 1064.2721218013935,
       "width": 3.764059054315318,
       "height": 63.208169446429565,
       "angle": 0,
@@ -1520,8 +1520,8 @@
       "opacity": 100,
       "groupIds": [],
       "seed": 1947550653,
-      "version": 403,
-      "versionNonce": 1905403389,
+      "version": 437,
+      "versionNonce": 1564707955,
       "isDeleted": false,
       "points": [
         [
@@ -1538,8 +1538,8 @@
     {
       "id": "N0NuQLTQyxDt3kg4HZLKW",
       "type": "ellipse",
-      "x": 25.01016019570676,
-      "y": 1152.3845091540397,
+      "x": 131.1496803977272,
+      "y": 1159.3881392045455,
       "width": 100.90234375,
       "height": 99.7265625,
       "angle": 0,
@@ -1554,15 +1554,15 @@
         "TAkJ09RlQWpNMP-DjYzxR"
       ],
       "seed": 888473693,
-      "version": 737,
-      "versionNonce": 1149830227,
+      "version": 771,
+      "versionNonce": 870311997,
       "isDeleted": false
     },
     {
       "id": "SWVsys7kO7uRxUyGRg7OH",
       "type": "text",
-      "x": 25.005574720417485,
-      "y": 1190.161458333334,
+      "x": 131.14509492243792,
+      "y": 1197.1650883838397,
       "width": 100.16436688311745,
       "height": 23.371685606060737,
       "angle": 0,
@@ -1577,8 +1577,8 @@
         "TAkJ09RlQWpNMP-DjYzxR"
       ],
       "seed": 117700595,
-      "version": 663,
-      "versionNonce": 1740004957,
+      "version": 697,
+      "versionNonce": 1755285011,
       "isDeleted": false,
       "text": "期刊文章模型",
       "fontSize": 16.486372364869823,
@@ -1590,8 +1590,8 @@
     {
       "id": "K_iwDf_OZyz1C8xd1VUB8",
       "type": "arrow",
-      "x": 103.19821259469646,
-      "y": 1056.5656565656568,
+      "x": 209.3377327967169,
+      "y": 1063.5692866161617,
       "width": 10.86820449947632,
       "height": 74.93856311700597,
       "angle": 0,
@@ -1604,8 +1604,8 @@
       "opacity": 100,
       "groupIds": [],
       "seed": 1604035891,
-      "version": 405,
-      "versionNonce": 1546322419,
+      "version": 439,
+      "versionNonce": 395434141,
       "isDeleted": false,
       "points": [
         [
@@ -1622,8 +1622,8 @@
     {
       "id": "7OD4qO4bY-2H-ajnxZqRz",
       "type": "rectangle",
-      "x": 145.1568813131309,
-      "y": 1392.1299518623737,
+      "x": 251.29640151515133,
+      "y": 1399.1335819128794,
       "width": 136.74999999999997,
       "height": 68.93359375,
       "angle": 0,
@@ -1638,15 +1638,15 @@
         "1QsKjNR9TtlpiGN30eox4"
       ],
       "seed": 1368899571,
-      "version": 692,
-      "versionNonce": 292850365,
+      "version": 726,
+      "versionNonce": 1166756787,
       "isDeleted": false
     },
     {
       "id": "FnAOedUhR4l1FDWHg9ugl",
       "type": "text",
-      "x": 173.00402462121184,
-      "y": 1412.3244949494947,
+      "x": 279.1435448232323,
+      "y": 1419.3281250000005,
       "width": 80,
       "height": 28,
       "angle": 0,
@@ -1661,8 +1661,8 @@
         "1QsKjNR9TtlpiGN30eox4"
       ],
       "seed": 79342781,
-      "version": 659,
-      "versionNonce": 1442597779,
+      "version": 693,
+      "versionNonce": 610712829,
       "isDeleted": false,
       "text": "期刊发布",
       "fontSize": 20,
@@ -1674,8 +1674,8 @@
     {
       "id": "sHL3sYSRU865N4IwaJ1D8",
       "type": "arrow",
-      "x": 208.1766537765863,
-      "y": 1262.3289079485785,
+      "x": 314.31617397860674,
+      "y": 1269.3325379990843,
       "width": 1.3656547165522852,
       "height": 104.55988710958059,
       "angle": 0,
@@ -1688,8 +1688,8 @@
       "opacity": 100,
       "groupIds": [],
       "seed": 710843955,
-      "version": 478,
-      "versionNonce": 1332620061,
+      "version": 512,
+      "versionNonce": 1210932563,
       "isDeleted": false,
       "points": [
         [
