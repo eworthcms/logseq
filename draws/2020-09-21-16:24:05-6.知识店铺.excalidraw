@@ -222,6 +222,58 @@
         ]
       ],
       "lastCommittedPoint": null
+    },
+    {
+      "id": "FqWC-UiQBInfWA92kzGSi",
+      "type": "ellipse",
+      "x": 1033.74609375,
+      "y": 313.7734375,
+      "width": 117.171875,
+      "height": 85.9921875,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "3oPEtdIqFtfNzpN7e-Aq_"
+      ],
+      "seed": 1061466344,
+      "version": 43,
+      "versionNonce": 457751192,
+      "isDeleted": false
+    },
+    {
+      "id": "Len6BK8H9eM7_JSh63mTY",
+      "type": "text",
+      "x": 1052.33203125,
+      "y": 342.76953125,
+      "width": 80,
+      "height": 28,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "3oPEtdIqFtfNzpN7e-Aq_"
+      ],
+      "seed": 2032449512,
+      "version": 37,
+      "versionNonce": 648534760,
+      "isDeleted": false,
+      "text": "店铺审核",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "baseline": 21
     }
   ],
   "appState": {
